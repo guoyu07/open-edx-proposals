@@ -351,4 +351,4 @@ Open source libraries we maintain (that are useful beyond their integration
 with our own projects) should continue to support python 2 until python 2 is
 EOLed in 2020.
 
-TBD: What support do partners and openedx users need?
+TBD: What support do partners and openedx adopters need?
